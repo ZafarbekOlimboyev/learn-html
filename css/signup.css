@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(19, 134, 242);
+    
+}
+.conteiner{
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 auto;
+}
+.signup{
+    background-color: #fff;
+    width: 700px;
+    height: 800px;
+    margin-top: 10px;
+    margin-left: 250px;
+    border-radius: 20px;
+}
+.signup h1{
+    display: flex;
+    font-size: 50px;
+    justify-content: center;
+    padding: 30px;
+}
+
+.signup p{
+    margin-left: 100px;
+    margin-top: -20px;
+    font-size: 20px;
+}
+
+.card{
+    margin-left: 100px;
+}
+
+.card h3{
+    font-size: 20px;
+    font: 1em sans-serif;
+}
+
+.card input{
+    width: 500px;
+    height: 40px;
+}
+
+.card button{
+    margin-top: 15px;
+    margin-left: 410px;
+    width: 100px;
+    height: 40px;
+    background-color: rgb(76, 68, 182,0.888);
+    border-radius: 6px;
+    
+}
+
+.card button:hover{
+    opacity: 0.8;
+}
